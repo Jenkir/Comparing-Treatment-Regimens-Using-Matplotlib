@@ -27,5 +27,8 @@ The major steps were as follows:
 
 9. Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plotted the linear regression model on top of the previous scatter plot.
 
+![image](https://user-images.githubusercontent.com/75215001/127552214-6f1abb17-3660-4251-9fc2-3cf095aa5b15.png)
+
+
 
 
