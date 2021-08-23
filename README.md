@@ -1,4 +1,4 @@
-# Matplotlib-Assignment
+# Comparing Treament Regimens Using Matplotlib
 
 For this assignment, the premise is that I've joined Pymaceuticals Inc., a burgeoning pharmaceutical company that specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 As a senior data analyst at the company, I've been given access to data from a recent animal study in which 249 mice identified with SCC tumor growth were treated through different drug regimens. Over 45 days, tumor development was observed and measured. The purpose of the study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. The executive team requested that I generate the tables and figures needed for the technical report of the study as well as a top-level summary of the results.
